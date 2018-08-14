@@ -1,0 +1,26 @@
+h1, h3 { text-align: center; color: #000033;}
+.intro { text-align: center;}
+i {
+  border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+}
+
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+
+#experience {
+  width: 100%;
+  background-color: lightblue;
+  border-radius: 8px 8px 8px 8px;
+  display: none;
+}
+#extracurricular{
+  width: 100%;
+  background-color: lightblue;
+  border-radius: 8px 8px 8px 8px;
+  display: none;
+}
